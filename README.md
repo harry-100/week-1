@@ -16,4 +16,6 @@
 
     * Broken link was fixed
 
+    * Image sizes reduced to make webpage load faster
+
 
